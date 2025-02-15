@@ -165,7 +165,7 @@ cython_debug/
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
-#.idea/
+.idea/
 
 # PyPI configuration file
 .pypirc
@@ -175,3 +175,19 @@ cython_debug/
 chromedriver.exe
 geckodriver.exe
 edgedriver.exe
+
+# pytest
+pytest_report.xml
+
+# Arquivos de log
+*.log
+*.txt
+
+# Arquivos de configuração de IDEs
+.vscode/
+*.sublime-project
+
+# Arquivos de configuração de editores de texto
+*.swp
+*.swo
+*.bak
