@@ -169,3 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Arquivos gerados pela Selenium
+.selenium/
+chromedriver.exe
+geckodriver.exe
+edgedriver.exe
