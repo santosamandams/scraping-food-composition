@@ -1,0 +1,6 @@
+{
+  "energy_kcal": "//*[@id=\"tabela1\"]/tbody/tr[2]/td[3]",
+  "carbohydrate": "//*[@id=\"tabela1\"]/tbody/tr[4]/td[3]",
+  "protein": "//*[@id=\"tabela1\"]/tbody/tr[6]/td[3]",
+  "fiber": "//*[@id=\"tabela1\"]/tbody/tr[8]/td[3]"
+}

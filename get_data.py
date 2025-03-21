@@ -15,7 +15,7 @@ with open("data/lote_test.csv", "r", newline='', encoding='utf-8') as csv_file:
 
     contador = 0
     for linha in list_code:
-        if contador < 6:
+        if contador < 2: #começa em 2
             print(linha[0])
             contador += 1
         else:
